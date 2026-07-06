@@ -3,13 +3,21 @@
 ## ℹ️ Getting Started
 
 * [1. Introduction](README.md)
-* [2. Problems](getting-started/2.-problems.md)
+* [2. The Problem](getting-started/2.-the-problem.md)
 * [3. Solution](getting-started/3.-solution.md)
 * [4. Why on Solana?](getting-started/4.-why-on-solana.md)
-* [5. Tokenomics](getting-started/5.-tokenomics.md)
-* [6. Roadmap](getting-started/6.-roadmap.md)
-* [7. Team](getting-started/7.-team.md)
-* [8. Vision and Mission](getting-started/8.-vision-and-mission.md)
+* [The SAPN Token](getting-started/the-sapn-token.md)
+* [6. Tokenomics](getting-started/6.-tokenomics.md)
+* [7. Token Sale](getting-started/7.-token-sale.md)
+* [8. Plant-to-Earn & Verification](getting-started/8.-plant-to-earn-and-verification.md)
+* [9. Staking](getting-started/9.-staking.md)
+* [10. Sapling Wallet](getting-started/10.-sapling-wallet.md)
+* [11. Community & Governance](getting-started/11.-community-and-governance.md)
+* [12. Carbon Impact Targets](getting-started/12.-carbon-impact-targets.md)
+* [13. Roadmap](getting-started/13.-roadmap.md)
+* [14. Team](getting-started/14.-team.md)
+* [15. Vision & Mission](getting-started/15.-vision-and-mission.md)
+* [16. Disclaimer](getting-started/16.-disclaimer.md)
 
 ## 🌱 Sapling Network
 

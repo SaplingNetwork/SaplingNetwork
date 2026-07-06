@@ -1,14 +1,11 @@
 # 1. Introduction
 
-Cryptocurrencies have transformed global finance by enabling decentralized, permissionless value transfer. However, this transformation comes at a significant environmental cost. Today, the cryptocurrency industry is responsible for over **130 million tons of CO₂ emissions annually**, primarily due to energy-intensive consensus mechanisms and reliance on fossil fuels. As adoption accelerates, this carbon footprint continues to grow.
+Cryptocurrencies have transformed global finance by enabling decentralized, permissionless value transfer. This transformation, however, carries a real environmental cost: the cryptocurrency industry is estimated to emit **65–90 million tonnes of CO₂e per year**, with Bitcoin mining responsible for the overwhelming majority of it (Cambridge Centre for Alternative Finance; Crypto Carbon Ratings Institute, 2024–2025 estimates).
 
-While blockchain technology promises efficiency and transparency, its environmental sustainability remains a critical challenge. Without structural changes, the widespread use of cryptocurrencies risks intensifying climate change rather than contributing to a sustainable digital economy.
+While modern blockchains have become dramatically more efficient, the industry as a whole still externalizes its climate impact. Emissions are rarely measured, offset, or transparently reported — and users participate in this footprint without ever seeing it.
 
-**Sapling Network** is designed to address this challenge at its core.
+**Sapling Network** is built to close that gap.
 
-Built on the **Solana blockchain**, Sapling Network leverages **energy-efficient architectures such as** [**Proof of History**](getting-started/4.-why-on-solana.md) to dramatically reduce energy consumption. Beyond reducing emissions, Sapling Network integrates **real-world environmental impact**, including afforestation and renewable energy initiatives, directly into its economic model.
+Running on the **Solana** blockchain — one of the most energy-efficient networks in production — Sapling Network goes beyond "low-emission by design." It embeds **verifiable, real-world tree planting** directly into its token economy: every sapling purchased, every token staked, and every ecosystem fee routes value toward measurable reforestation with on-chain proof.
 
-Sapling Network is not only a DeFi platform — it is an environmental infrastructure for the next generation of blockchain systems.
-
-
-
+Sapling Network is not only a DeFi platform — it is environmental infrastructure for the next generation of blockchain systems.
